@@ -1,0 +1,48 @@
+# Unreal Engine generated folders (rebuilt automatically by the editor)
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+.vscode/
+.idea/
+
+# Same folders inside any plugins
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# Generated IDE / solution files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.code-workspace
+
+# Compiled build artifacts
+*.dll
+*.exe
+*.pdb
+*.lib
+*.exp
+*.obj
+*.o
+*.so
+*.dylib
+*.app
+*.ipa
+*.apk
+*.pak
+*.ucas
+*.utoc
+
+# Cooked content and local caches
+*.ddc
+*.udd
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
